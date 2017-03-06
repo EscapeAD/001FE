@@ -1,0 +1,12 @@
+header .header-content {
+    width: 100%;
+    padding: 15em 1em;
+    text-align: center;
+    z-index: 2;
+}
+
+#title{
+  font-size: 5em;
+  font-weight: 600;
+  color: #008080;
+}
