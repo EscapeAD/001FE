@@ -8,12 +8,14 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HeadComponent } from './head/head.component';
+import { VisionComponent } from './vision/vision.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    HeadComponent
+    HeadComponent,
+    VisionComponent
   ],
   imports: [
     BrowserModule,
