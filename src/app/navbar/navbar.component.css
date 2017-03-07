@@ -7,3 +7,8 @@
 .nav-link:hover {
   color: #000000;
 }
+
+.navbar {
+  background-color: white;
+  z-index: 30;
+}
