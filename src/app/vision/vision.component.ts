@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./vision.component.css']
 })
 export class VisionComponent implements OnInit {
-
+  
   constructor() { }
 
   ngOnInit() {
