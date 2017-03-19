@@ -1,6 +1,6 @@
 header .header-content {
     width: 100%;
-    padding: 15em 1em;
+    padding: 8em 1em;
     text-align: center;
     z-index: 2;
 }
@@ -9,4 +9,12 @@ header .header-content {
   font-size: 5em;
   font-weight: 600;
   color: #008080;
+}
+
+header {
+  width:100%;
+  background: no-repeat fixed center;
+  overflow: hidden;
+  height: 700px;
+  background-size: cover;
 }
