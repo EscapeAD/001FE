@@ -10,3 +10,10 @@ header .header-content {
   font-weight: 600;
   color: #008080;
 }
+
+header {
+  background: no-repeat fixed center;
+  overflow: hidden;
+  height: 700px;
+  background-size: cover;
+}
