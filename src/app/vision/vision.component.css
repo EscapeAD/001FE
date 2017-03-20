@@ -19,6 +19,13 @@ h1 {
   max-width: 100%;
 }
 
+.card-space {
+  padding: 5em 0;
+}
+
+.fa-space {
+  padding: 1em 0;
+}
 
 #two {
   padding-top: 3em;
@@ -30,4 +37,8 @@ h1 {
   frameborder: 0;
   marginheight: 0;
   marginwidth: 0;
+}
+
+.card {
+  border: 0;
 }

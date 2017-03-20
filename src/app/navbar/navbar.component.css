@@ -10,5 +10,9 @@
 
 .navbar {
   background-color: white;
-  z-index: 30;
+  z-index: 150;
+}
+
+#brand{
+  height: 1.2em;
 }
