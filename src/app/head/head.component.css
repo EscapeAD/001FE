@@ -12,12 +12,15 @@ header .header-content {
   color: #008080;
 }
 
+header .subtitle {
+  padding: 1em 1em;
+}
 
 header {
   width:100%;
   height: 100%;
   background: no-repeat fixed center;
   overflow: hidden;
-  height: 700px;
+  height: 750px;
   background-size: cover;
 }

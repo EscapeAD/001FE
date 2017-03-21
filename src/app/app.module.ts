@@ -9,6 +9,8 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HeadComponent } from './head/head.component';
 import { VisionComponent } from './vision/vision.component';
 import { TeamComponent } from './team/team.component';
+import { ThreeBadgesComponent } from './three-badges/three-badges.component';
+import { FormComponent } from './form/form.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { TeamComponent } from './team/team.component';
     NavbarComponent,
     HeadComponent,
     VisionComponent,
-    TeamComponent
+    TeamComponent,
+    ThreeBadgesComponent,
+    FormComponent
   ],
   imports: [
     BrowserModule,
