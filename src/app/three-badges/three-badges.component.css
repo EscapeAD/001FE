@@ -19,3 +19,12 @@
 .row {
   padding: 15em 0;
 }
+
+#title {
+  color: #008080;
+  padding: 1.5em 0;
+}
+
+#about {
+  padding-top: 10em;
+}
